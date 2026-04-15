@@ -1,4 +1,4 @@
-## Hi there 👋
+## 听好多遍👋
 
 <!--
 **li-fxy/li-fxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
